@@ -27,5 +27,5 @@ jobs:
         if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
         uses: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PRETTIER }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           BRANCH_NAME: 'main'
