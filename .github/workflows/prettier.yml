@@ -19,11 +19,12 @@ jobs:
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check
-      - name: Create diff 📝
+      - name: Prettify code
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
         if: ${{ failure() }}
         run: npx prettier . --write
-      - name: Push prettified code
+      - name: Push the change
+        if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
