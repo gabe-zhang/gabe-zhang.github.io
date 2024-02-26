@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle:
+subtitle: ML&DS master's student, Northwestern University
 
 profile:
   align: right
