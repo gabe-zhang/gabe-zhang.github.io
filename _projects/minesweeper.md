@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OptiDraft: Character Recommender System"
+title: Minesweeper AI
 description: An artificial intelligence for solving the Minesweeper game.
 importance: 7
 category: "AI"
