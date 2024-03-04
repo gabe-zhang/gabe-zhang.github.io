@@ -64,40 +64,19 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python (scikit-learn, PyTorch, Keras, NumPy, pandas)",
-        "R (tidyverse)",
-        "C++"
-      ]
+      "keywords": ["Python (scikit-learn, PyTorch, Keras, NumPy, pandas)", "R (tidyverse)", "C++"]
     },
     {
       "name": "Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Tableau",
-        "Excel",
-        "PowerPoint",
-        "Git",
-        "GitHub",
-        "Linux",
-        "Microsoft Azure",
-        "Docker",
-        "Flourish"
-      ]
+      "keywords": ["Tableau", "Excel", "PowerPoint", "Git", "GitHub", "Linux", "Microsoft Azure", "Docker", "Flourish"]
     },
     {
       "name": "Databases",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PostgreSQL",
-        "Spark SQL",
-        "MongoDB",
-        "Apache Cassandra",
-        "Neo4j",
-        "SQLite"
-      ]
+      "keywords": ["PostgreSQL", "Spark SQL", "MongoDB", "Apache Cassandra", "Neo4j", "SQLite"]
     }
   ],
   "languages": [
