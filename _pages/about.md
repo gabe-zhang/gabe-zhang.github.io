@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>"It is my business to know what other people do not know."</p>
-    <footer>— Arthur Conan Doyle</footer>
+      <p>章远 (He/Him/His)</p>
+      <p>Northwestern University</p>
 
 news: true # includes a list of news items
 # latest_posts: true # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi, this is Gabriel Zhang! I am a passionate **_data detective_** with hands-on experience in data science team projects.
