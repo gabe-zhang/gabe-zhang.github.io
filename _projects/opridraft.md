@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: "OptiDraft: Character Recommender System"
+description: A champion drafting and recommender system for League of Legends
+redirect: https://github.com/optidraft/lol-draft-pick
 importance: 3
-category: fun
+category: "Machine Learning"
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Multimodal Image-Text Matching
+description: Project in Neural Networks and Deep Learning
+importance: 2
+category: "Deep Learning"
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
