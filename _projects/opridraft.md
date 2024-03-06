@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OptiDraft: Character Recommender System"
+title: "OptiDraft"
 description: A champion drafting and recommender system for League of Legends
 redirect: https://github.com/optidraft/lol-draft-pick
 importance: 3
