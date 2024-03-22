@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Interchange.com"
+title: "Interchange"
 description: Peer-to-Peer E-commerce Service
 importance: 4
 category: "Data Management"
