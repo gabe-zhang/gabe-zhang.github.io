@@ -82,7 +82,25 @@
       "name": "Tools/Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Excel", "PowerPoint", "Tableau", "Git", "Linux", "Docker", "Hadoop", "Spark", "MapReduce", "AWS (S3, EC2, ECS, RDS)", "BigQuery", "Azure Web App", "Databrick", "Hive", "REST API", "CI/CD", "DevOps"]
+      "keywords": [
+        "Excel",
+        "PowerPoint",
+        "Tableau",
+        "Git",
+        "Linux",
+        "Docker",
+        "Hadoop",
+        "Spark",
+        "MapReduce",
+        "AWS (S3, EC2, ECS, RDS)",
+        "BigQuery",
+        "Azure Web App",
+        "Databrick",
+        "Hive",
+        "REST API",
+        "CI/CD",
+        "DevOps"
+      ]
     },
     {
       "name": "Databases",
