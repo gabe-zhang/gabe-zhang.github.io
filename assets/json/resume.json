@@ -29,23 +29,23 @@
       "startDate": "2019.08",
       "endDate": "2023.06",
       "score": "3.88/4.00",
-      "courses": []
+      "courses": ["Machine Learning", "Big Data Analytics", "Probability and Statistics", "Algorithms"]
     }
   ],
   "work": [
     {
-      "name": "Shanghai Daiqian Cosmetic Co., Ltd.",
+      "name": "Shanghai Daiqian Information Technology Co., Ltd.",
       "position": "Data Analyst Intern",
       "url": "https://www.skinbasic.cn",
       "startDate": "2021.07",
       "endDate": "2021.08",
-      "summary": "As a data analytics intern at Daiqian, my role involved close collaboration with the product testing team, where I gained practical experience in analyzing and interpreting customer segments.",
-      "highlights": ["Market Segmentation", "Data Visualization"]
+      "summary": "As a Data Analytics Intern at Daiqian, I collaborated closely with the product testing team. My responsibilities included analyzing customer segments, conducting ad hoc customer analysis, and optimizing product testing workflows.",
+      "highlights": ["Market Segmentation", "Data Visualization", "Workflow Optimization"]
     }
   ],
   "projects": [
     {
-      "name": "Project Collection",
+      "name": "Project Collections",
       "url": "../projects/"
     }
   ],
@@ -70,25 +70,31 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python (scikit-learn, PyTorch, Keras, NumPy, pandas)", "R (tidyverse)", "C++"]
+      "keywords": ["Python", "R", "C++"]
     },
     {
-      "name": "Tools",
+      "name": "ML/DL",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Tableau", "Excel", "PowerPoint", "Git", "GitHub", "Linux", "Microsoft Azure", "Docker", "Flourish"]
+      "keywords": ["scikit-learn", "PyTorch", "Keras", "TensorFlow"]
+    },
+    {
+      "name": "Tools/Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Excel", "PowerPoint", "Tableau", "Git", "Linux", "Docker", "Hadoop", "Spark", "MapReduce", "AWS (S3, EC2, ECS, RDS)", "BigQuery", "Azure Web App", "Databrick", "Hive", "REST API", "CI/CD", "DevOps"]
     },
     {
       "name": "Databases",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["PostgreSQL", "Spark SQL", "MongoDB", "Apache Cassandra", "Neo4j", "SQLite"]
+      "keywords": ["PostgreSQL", "Spark SQL", "MongoDB", "Apache Cassandra", "Neo4j", "MySQL"]
     }
   ],
   "languages": [
     {
       "language": "Chinese - Mandarin",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
