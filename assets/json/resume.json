@@ -110,7 +110,7 @@
       "url": "https://www.icccc.org",
       "startDate": "2022.06",
       "endDate": "2023.07",
-      "summary": "Developed an authorization system to facilitate a secure check-in/check-out process for ensuring the safety of children."
+      "summary": "Developed an authorization system to facilitate a secure check-in/check-out process for ensuring the safety of children using the amis framework and Flask."
     }
   ]
 }

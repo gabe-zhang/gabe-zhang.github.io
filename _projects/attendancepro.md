@@ -3,7 +3,7 @@ layout: page
 title: AttendancePro
 description: A web authorization system for children's ministry.
 importance: 6
-category: "Web Development"
+category: "Software Engineering"
 ---
 
 AttendancePro is a web-based authorization system to facilitate a secure check-in/check-out process for children. In addition, it also supports various administrative tasks for the children's ministry at the [Irvine Canaan Christian Community Church](https://www.icccc.org/).
