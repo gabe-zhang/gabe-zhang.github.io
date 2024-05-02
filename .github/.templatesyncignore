@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# But not these files
+:!.github/workflows/broken-links.yml
+:!Gemfile
+:!_data/venues.yml
+:!_includes/**
+:!_layouts/**
+:!_plugins/**
+:!_sass/**
+:!assets/css/**
+:!assets/fonts/**
+:!assets/js/**
+:!assets/webfonts/**
+
+# Ignore specific files
+_includes/citation.liquid
+_layouts/cv.liquid
+_plugins/google-scholar-citations.rb
+_plugins/hide-custom-bibtex.rb
