@@ -4,11 +4,11 @@
 # But not these files
 :!.github/workflows/broken-links.yml
 :!Gemfile
-:!_data/venues.yml
-:!_includes/**
-:!_layouts/**
-:!_plugins/**
-:!_sass/**
+:!*data/venues.yml
+:!*includes/**
+:!*layouts/**
+:!*plugins/**
+:!*sass/**
 :!assets/css/**
 :!assets/fonts/**
 :!assets/js/**
