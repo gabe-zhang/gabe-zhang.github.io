@@ -11,13 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.TOKEN }}
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
@@ -31,7 +28,6 @@ jobs:
         run: npx prettier . --write
       - name: Push the change
         if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          BRANCH_NAME: "main"
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Prettify changes from last commit
