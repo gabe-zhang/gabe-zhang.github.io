@@ -1,4 +1,8 @@
-*
+# Ignore everything
+/*
+/*/
+
+# But not these files
 !.github/workflows/broken-links.yml
 !Gemfile
 !_data/venues.yml
@@ -11,6 +15,7 @@
 !assets/js/**
 !assets/webfonts/**
 
+# Ignore specific files
 _includes/citation.liquid
 _layouts/cv.liquid
 _plugins/google-scholar-citations.rb
