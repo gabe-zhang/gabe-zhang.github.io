@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      repository-projects: read
 
     steps:
       # To use this repository's private action, you must check out the repository
@@ -24,3 +25,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: alshedivat/al-folio
           upstream_branch: master
+          is_force_push_pr: true
+          git_user_name: github-actions[bot]
+          git_user_email: 41898282+github-actions[bot]@users.noreply.github.com
