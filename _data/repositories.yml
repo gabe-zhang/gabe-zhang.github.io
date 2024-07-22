@@ -1,8 +1,14 @@
 github_users:
-  - yuanzzhang
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
-  - MSIA/mlds400-group2-final
-  - optidraft/lol-draft-pick
-  - spencerlli/CKFM-enrollment-check-in-out-system
-  - yuanzzhang/cf-dataviz
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons

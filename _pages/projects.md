@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: A growing collection of my cool projects.
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: ["Machine Learning", "Deep Learning", "Information Retrieval", "Software Engineering", "Data Management", "AI",
-"Data Visualization"]
+display_categories: [work, fun]
 horizontal: false
 ---
 

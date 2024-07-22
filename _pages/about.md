@@ -1,25 +1,25 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: ML&DS master's student, Northwestern University
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>章远 (He/Him/His)</p>
-    <p>Northwestern University</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-# latest_posts: true # includes a list of the newest posts
-# selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-Hi, this is Gabriel Zhang! I am a passionate **_data detective_** with hands-on experience in data science team projects.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Why **_data detective_**? I love reading Sherlock Holmes! I appreciate his ability to unravel mysterious cases through the observation of subtle clues and making shrewd deductions. In the era of big data, I am dedicated to bridging business needs with technical expertise and business acumen to unearth valuable insights from complex datasets, ultimately utilizing data to support evidence-based decisions.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Currently, I am pursuing the [Master of Science in Machine Learning and Data Science (MLDS)](https://www.mccormick.northwestern.edu/machine-learning-data-science) program at [Northwestern University](https://www.northwestern.edu/). It's an amazing journey to learn from exceptional professors and collaborate with cohort students.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
