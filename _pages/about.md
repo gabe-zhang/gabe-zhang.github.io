@@ -6,7 +6,7 @@ subtitle: ML&DS master's student, Northwestern University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>章远 (He/Him/His)</p>
