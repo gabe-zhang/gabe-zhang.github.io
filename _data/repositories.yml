@@ -1,6 +1,8 @@
 github_users:
   - yuanzzhang
 
+repo_description_lines_max: 2
+
 github_repos:
   - MSIA/mlds400-group2-final
   - optidraft/lol-draft-pick
