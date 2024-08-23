@@ -5,8 +5,15 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: ["Machine Learning", "Deep Learning", "Information Retrieval", "Software Engineering", "Data Management", "AI",
-"Data Visualization"]
+display_categories: [
+  "LLM/RAG/AI",
+  "Machine/Deep Learning",
+  "Recommander System",
+  "Software Engineering",
+  "Data Visualization",
+  "Information Retrieval",
+  "Data Management"
+]
 horizontal: false
 ---
 
