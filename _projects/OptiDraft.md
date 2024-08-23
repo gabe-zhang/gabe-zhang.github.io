@@ -19,5 +19,5 @@ category: "Recommender System"
   <p>Your browser does not support iframes. You can <a href="https://optidraft.github.io/optidraft/">click the link here</a>.</p>
 </iframe>
 
-For better user experiment, please open the link in a new tab: [https://optidraft.github.io/optidraft/](https://optidraft.github.io/optidraft/)  
+For the best user experience, please open the link on a desktop: [https://optidraft.github.io/optidraft/](https://optidraft.github.io/optidraft/)  
 For more detailed project information, please visit the GitHub repo: [https://github.com/optidraft/lol-draft-pick](https://github.com/optidraft/lol-draft-pick)
