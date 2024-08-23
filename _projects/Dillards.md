@@ -16,8 +16,6 @@ related_publications: false
 
 ### Project Report
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/MSIA/mlds400-group2-final/main/6.Deliverable/MLDS400_Final%20Report_Group2_Dec%208th.pdf&embedded=true" width="100%" height="600px">
-  <p>Your browser does not support iframes. You can <a href="https://raw.githubusercontent.com/MSIA/mlds400-group2-final/main/6.Deliverable/MLDS400_Final%20Report_Group2_Dec%208th.pdf">download the PDF here</a>.</p>
-</iframe>
+<iframe src="https://drive.google.com/file/d/1YVFyaYHRFi5i68LV6iKovaxK8xmPdrF5/preview" width="100%" height="600px" allow="autoplay"></iframe>
 
 For more detailed project information, please visit the GitHub repo: [https://github.com/MSIA/mlds400-group2-final](https://github.com/MSIA/mlds400-group2-final)

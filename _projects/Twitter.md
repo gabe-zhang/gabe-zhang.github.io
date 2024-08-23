@@ -14,8 +14,6 @@ related_publications: false
 
 ### Project Report
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Marklong7/NLP_emotion_classification/main/MLDS420_project_report.pdf&embedded=true" width="100%" height="600px">
-  <p>Your browser does not support iframes. You can <a href="https://raw.githubusercontent.com/Marklong7/NLP_emotion_classification/main/MLDS420_project_report.pdf">download the PDF here</a>.</p>
-</iframe>
+<iframe src="https://drive.google.com/file/d/1Ve2jK9fLDa4HZiaB4fAXfBGyJdZmoQBL/preview" width="100%" height="600px" allow="autoplay"></iframe>
 
 For more detailed project information, please visit the GitHub repo: <https://github.com/Marklong7/NLP_emotion_classification>
