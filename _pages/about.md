@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Current Position: Data Science Engnieer Intern at SS&C Intralinks</p>
+    <p>Current Position: Data Science Engineer Intern at SS&C Intralinks</p>
 
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
