@@ -98,32 +98,15 @@
       "name": "Machine Learning & AI",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Deep Learning",
-        "Natural Language Processing",
-        "Computer Vision",
-        "MLOps"
-      ]
+      "keywords": ["Deep Learning", "Natural Language Processing", "Computer Vision", "MLOps"]
     },
     {
-        "name": "Big Data & Data Platforms",
-        "level": "Master",
-        "icon": "fa-solid fa-database",
-        "keywords": [
-          "Spark",
-          "Hadoop",
-          "Hive",
-          "MapReduce",
-          "Databricks",
-          "BigQuery",
-          "Neo4j",
-          "MongoDB",
-          "Cassandra",
-          "PostgreSQL",
-          "MySQL"
-        ]
+      "name": "Big Data & Data Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-database",
+      "keywords": ["Spark", "Hadoop", "Hive", "MapReduce", "Databricks", "BigQuery", "Neo4j", "MongoDB", "Cassandra", "PostgreSQL", "MySQL"]
     },
-   
+
     {
       "name": "AWS Services",
       "level": "Advanced",
@@ -134,15 +117,7 @@
       "name": "DevOps & Development",
       "level": "Advanced",
       "icon": "fa-solid fa-code-branch",
-      "keywords": [
-        "Docker",
-        "Git",
-        "CI/CD",
-        "Linux",
-        "Unit Testing",
-        "Flask",
-        "REST API"
-      ]
+      "keywords": ["Docker", "Git", "CI/CD", "Linux", "Unit Testing", "Flask", "REST API"]
     },
     {
       "name": "Cloud Platforms",
