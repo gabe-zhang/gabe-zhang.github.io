@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - MSIA/mlds400-group2-final
+  - xvrettakou/cloud_eng_project
   - optidraft/lol-draft-pick
+  - MSIA/mlds400-group2-final
   - spencerlli/CKFM-enrollment-check-in-out-system
-  - yuanzzhang/cf-dataviz
