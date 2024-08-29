@@ -4,7 +4,7 @@ title: FaceMood
 description: AI-Powered Mental Health Support
 importance: 1
 category: "Machine/Deep Learning"
-related_publications: false
+img: /assets/img/FaceMood-cover.png
 ---
 
 ### Quick Summary

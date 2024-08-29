@@ -4,7 +4,7 @@ title: DrillBot
 description: A multi-agent RAG system to answer drilling KPI queries
 importance: 1
 category: "LLM/RAG/AI"
-related_publications: false
+img: /assets/img/DrillBot-cover.png
 ---
 
 ### Quick Summary
