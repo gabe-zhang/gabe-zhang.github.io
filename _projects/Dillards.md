@@ -18,4 +18,4 @@ related_publications: false
 
 <iframe src="https://drive.google.com/file/d/1YVFyaYHRFi5i68LV6iKovaxK8xmPdrF5/preview" width="100%" height="600px" allow="autoplay"></iframe>
 
-For more detailed project information, please visit the GitHub repo: <https://github.com/MSIA/mlds400-group2-final>
+For more detailed project information, please visit the GitHub repo: <https://github.com/NUMLDS/mlds400-group2-final>
