@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Pursuing MS in Machine Learning and Data Science, Northwestern University
+subtitle:
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Current Position: Data Science Engineer Intern at SS&C Intralinks</p>
+    <p>Pursuing MS in Machine Learning and Data Science, Northwestern University</p>
 
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
@@ -19,4 +19,4 @@ Hi, this is Gabriel Zhang! I am a passionate **_data detective_** with hands-on 
 
 Why **_data detective_**? I love reading Sherlock Holmes! I appreciate his ability to unravel mysterious cases through the observation of subtle clues and making shrewd deductions. In the era of big data, I am dedicated to bridging business needs with technical expertise and business acumen to unearth valuable insights from complex datasets, ultimately utilizing data to support evidence-based decisions.
 
-**Interested Areas**: Data Science, Machine/Deep Learning, Multimodal LLMs, GenAI, AGI
+**Interested Areas**: AI Alignment, AGI, Multimodal LLMs, Data Science, Machine/Deep Learning
