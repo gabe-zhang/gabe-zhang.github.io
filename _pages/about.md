@@ -19,4 +19,4 @@ Hi, this is Gabriel Zhang! I am a passionate **_data detective_** with hands-on 
 
 Why **_data detective_**? I love reading Sherlock Holmes! I appreciate his ability to unravel mysterious cases through the observation of subtle clues and making shrewd deductions. In the era of big data, I am dedicated to bridging business needs with technical expertise and business acumen to unearth valuable insights from complex datasets, ultimately utilizing data to support evidence-based decisions.
 
-**Interested Areas**: AI Alignment, AGI, Multimodal LLMs, Data Science, Machine/Deep Learning
+**Interested Areas**: Efficient AI, AIoT
