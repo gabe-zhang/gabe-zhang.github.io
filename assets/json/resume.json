@@ -18,7 +18,14 @@
       "startDate": "Sep 2023",
       "endDate": "Dec 2024",
       "score": "",
-      "courses": ["Foundation Models", "Natural Language Processing (NLP)", "Deep Learning", "Predictive Analytics", "Cloud Engineering", "Data Mining"]
+      "courses": [
+        "Foundation Models",
+        "Natural Language Processing (NLP)",
+        "Deep Learning",
+        "Predictive Analytics",
+        "Cloud Engineering",
+        "Data Mining"
+      ]
     },
     {
       "institution": "University of California, Irvine",
