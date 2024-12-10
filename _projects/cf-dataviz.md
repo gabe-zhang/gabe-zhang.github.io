@@ -18,8 +18,8 @@ covers for a two year period of candidate’s financial activity summary.
 
 ### Project Report
 
-<iframe src="https://yuanzzhang.github.io/cf-dataviz/" width="100%" height="600px">
-  <p>Your browser does not support iframes. You can <a href="https://yuanzzhang.github.io/cf-dataviz/">click the link here</a>.</p>
+<iframe src="https://gabe-zhang.github.io/cf-dataviz/" width="100%" height="600px">
+  <p>Your browser does not support iframes. You can <a href="https://gabe-zhang.github.io/cf-dataviz/">click the link here</a>.</p>
 </iframe>
 
-For more detailed project information, please visit the GitHub repo: <https://github.com/yuanzzhang/cf-dataviz>
+For more detailed project information, please visit the GitHub repo: <https://github.com/gabe-zhang/cf-dataviz>
