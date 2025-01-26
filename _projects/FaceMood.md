@@ -9,9 +9,9 @@ img: /assets/img/FaceMood-cover.png
 
 ### Quick Summary
 
-- Deployed an AI-powered system on AWS to facilitate mental health support via facial expression analysis 
-- Fine-tuned a ConvNeXt-XL model on a 5-GPU Linux server using data parallelism, boosting top-1 accuracy by 7% 
-- Orchestrated an automated MLOps pipeline for a Dockerized web application on AWS, enabling continuous model re-training and deployment triggered by new data uploads 
+- Deployed an AI-powered system on AWS to facilitate mental health support via facial expression analysis
+- Fine-tuned a ConvNeXt-XL model on a 5-GPU Linux server using data parallelism, boosting top-1 accuracy by 7%
+- Orchestrated an automated MLOps pipeline for a Dockerized web application on AWS, enabling continuous model re-training and deployment triggered by new data uploads
 
 ### Architecture Diagram
 
