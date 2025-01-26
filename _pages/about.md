@@ -9,14 +9,16 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Pursuing MS in Machine Learning and Data Science, Northwestern University</p>
+    Gabriel Zhang
 
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, this is Gabriel Zhang! I am a passionate **_data detective_** with hands-on experience in data science team projects. Currently, I am pursuing the [Master of Science in Machine Learning and Data Science (MLDS)](https://www.mccormick.northwestern.edu/machine-learning-data-science) program at [Northwestern University](https://www.northwestern.edu/). It's an amazing journey to learn from exceptional professors and collaborate with cohort students.
+Hi, I am a passionate **_Data Detective_** with hands-on experience in data science team projects and applying AI to escalate business solutions. I graduated from the [MLDS](https://www.mccormick.northwestern.edu/machine-learning-data-science) master's program at Northwestern University, focusing on analytics and AI applications (deep learning, LLM, RAG, IoT). During my past internship at SS&C Intralinks, I worked as a Data Science Engineer Intern, where I developed a language-identification microservice with 98% accuracy and 0.4s latency for image documents using vision-language models.
 
-Why **_data detective_**? I love reading Sherlock Holmes! I appreciate his ability to unravel mysterious cases through the observation of subtle clues and making shrewd deductions. In the era of big data, I am dedicated to bridging business needs with technical expertise and business acumen to unearth valuable insights from complex datasets, ultimately utilizing data to support evidence-based decisions.
+Recently, I have been following the book [Build A Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) to dive deeply into language models and their underlying designs. I am also learning the [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940) course from MIT to train and deploy AI models on resource-constrained devices.
 
-**Interested Areas**: Efficient AI, AIoT
+Why **_Data Detective_**? I love reading Sherlock Holmes! I admire his ability to unravel mysterious cases through the observation of subtle clues and making shrewd deductions. In the era of big data, I am dedicated to bridging business needs with analytical expertise and business acumen to unearth valuable insights from complex datasets, ultimately utilizing data to support evidence-based decisions.
+
+**Interested Areas:** Efficient Deep Learning Computing, Multimodal Learning

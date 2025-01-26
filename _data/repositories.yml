@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - gabe-zhang/paper2summary
+  - gabe-zhang/dawg
   - xvrettakou/cloud_eng_project
   - optidraft/lol-draft-pick
-  - NUMLDS/mlds400-group2-final
-  - spencerlli/CKFM-enrollment-check-in-out-system

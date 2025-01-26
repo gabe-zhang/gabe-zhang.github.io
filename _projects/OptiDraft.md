@@ -9,10 +9,9 @@ img: /assets/img/OptiDraft-cover.png
 
 ### Quick Summary
 
-- Led a team of 5 in developing a character recommender system for a multiplayer online game (League of Legends)
-- Built an Extract, Transform, and Load (ETL) pipeline to collect 36K match histories from the game's APIs using Python
-- Engineered interaction features and fine-tuned logistic regression models to predict optimal character choices, improving game-winning probability by 20% through personalized character recommendations
-- Deployed a web interface using GitHub Pages and HTML for easy access
+- Led a team of 5 to develop a hybrid character recommender system for the multiplayer online game League of Legends 
+- Built an ETL pipeline to process 36K match histories retrieved via game APIs; created synergy scores to model team dynamics, improving game-winning probability predictions by 20% using a logistic regression model 
+- Launched a public-facing [web interface](https://optidraft.github.io/optidraft/) for personalized recommendations
 
 ### Web Interface
 

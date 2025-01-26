@@ -9,10 +9,9 @@ img: /assets/img/FaceMood-cover.png
 
 ### Quick Summary
 
-- Architected and deployed an AWS-based AI system for mental health support using facial expression analysis
-- Implemented an automated model training pipeline on AWS ECS, triggered by data preparation workflows
-- Enhanced data loading efficiency for multi-GPU distributed training, leveraging prefetching and caching techniques with ConvNeXt-XL model and Keras
-- Developed a Streamlit-based web application hosted on ECS, enabling users to upload selfies for emotion prediction, facilitating early detection of mental health concerns
+- Deployed an AI-powered system on AWS to facilitate mental health support via facial expression analysis 
+- Fine-tuned a ConvNeXt-XL model on a 5-GPU Linux server using data parallelism, boosting top-1 accuracy by 7% 
+- Orchestrated an automated MLOps pipeline for a Dockerized web application on AWS, enabling continuous model re-training and deployment triggered by new data uploads 
 
 ### Architecture Diagram
 
