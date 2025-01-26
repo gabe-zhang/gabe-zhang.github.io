@@ -48,7 +48,7 @@
       "startDate": "Jul 2024",
       "endDate": "Sep 2024",
       "summary": "Focused on the applications of Vision-Language Models (VLMs) in Language Identification for multilingual scanned documents.",
-      "highlights": ["NLP", "Generative AI (GenAI)", "Software Engineering"]
+      "highlights": ["Vision-Language Models", "NLP", "Software Engineering"]
     },
     {
       "name": "Shanghai Daiqian Information Technology Co., Ltd.",
@@ -59,11 +59,10 @@
       "endDate": "Aug 2021",
       "summary": "",
       "highlights": [
-        "Prototyped an automation system to streamline beauty product testing workflows",
-        "Designed smart auto-fill forms using YiDA (Alibaba Cloud) for efficient user and product information collection",
-        "Implemented database schema and user-friendly interfaces for form information storage, retrieval, and filtering",
-        "Integrated automated message notification on edge devices to prompt testers for product feedback, estimating 65% faster feedback collection and 50% higher testing capacity",
-        "Crafted 20+ storytelling visualizations using R and ggplot2 for an ad hoc customer experience report, presenting key insights on customer segments and product performance to R&D teams and stakeholders"
+        "Developed an automation system to optimize internal product testing workflows",
+        "Designed smart auto-fill forms and backend interfaces using YiDA (Alibaba Cloud) for streamlined information management ",
+        "Integrated automated notifications into edge devices to remind testers of feedback, reducing collection times by 65% and expanding testing capacity by 50%",
+        "Crafted 20+ ad hoc visualizations using R and ggplot2 for customer experience analysis, delivering actionable insights on customer segments and product performance to R&D teams and stakeholders"
       ]
     }
   ],
@@ -125,12 +124,6 @@
       "level": "Advanced",
       "icon": "fa-solid fa-code-branch",
       "keywords": ["Docker", "Git", "CI/CD", "Linux", "Unit Testing", "Flask", "REST API"]
-    },
-    {
-      "name": "Cloud Platforms",
-      "level": "Expert",
-      "icon": "fa-solid fa-cloud",
-      "keywords": ["AWS", "Azure"]
     },
     {
       "name": "Data Visualization",

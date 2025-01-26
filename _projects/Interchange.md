@@ -2,8 +2,8 @@
 layout: page
 title: "Interchange"
 description: Peer-to-Peer E-commerce Service
-importance: 4
-category: "Data Management"
+importance: 3
+category: "Software Engineering"
 ---
 
 ### Quick Summary

@@ -2,8 +2,8 @@
 layout: page
 title: "Campaign Finance Visualization"
 description: A visual data exploration of campaign finance data
-importance: 1
-category: "Data Visualization"
+importance: 2
+category: "Data Science"
 ---
 
 ### Quick Summary

@@ -3,14 +3,14 @@ layout: page
 title: "OptiDraft"
 description: A champion drafting and recommender system for League of Legends
 importance: 1
-category: "Recommender System"
+category: "Data Science"
 img: /assets/img/OptiDraft-cover.png
 ---
 
 ### Quick Summary
 
-- Led a team of 5 to develop a hybrid character recommender system for the multiplayer online game League of Legends 
-- Built an ETL pipeline to process 36K match histories retrieved via game APIs; created synergy scores to model team dynamics, improving game-winning probability predictions by 20% using a logistic regression model 
+- Led a team of 5 to develop a hybrid character recommender system for the multiplayer online game League of Legends
+- Built an ETL pipeline to process 36K match histories retrieved via game APIs; created synergy scores to model team dynamics, improving game-winning probability predictions by 20% using a logistic regression model
 - Launched a public-facing [web interface](https://optidraft.github.io/optidraft/) for personalized recommendations
 
 ### Web Interface

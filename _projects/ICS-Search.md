@@ -2,8 +2,8 @@
 layout: page
 title: ICS-Search
 description: A web search engine under the uci.ics subdomain.
-importance: 1
-category: "Information Retrieval"
+importance: 2
+category: "Software Engineering"
 ---
 
 ### Quick Summary

@@ -9,11 +9,8 @@ display_categories:
   [
     "LLM/RAG/AI",
     "Machine/Deep Learning",
-    "Recommender System",
-    "Software Engineering",
-    "Data Visualization",
-    "Information Retrieval",
-    "Data Management",
+    "Data Science",
+    "Software Engineering"
   ]
 horizontal: false
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: AttendancePro
 description: A web authorization system for children's ministry.
-importance: 2
+importance: 1
 category: "Software Engineering"
 ---
 
