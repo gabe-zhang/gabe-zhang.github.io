@@ -1,18 +1,19 @@
 ---
 layout: page
 title: paper2summary
-description: A resource-efficient RAG engine for scientific paper question answering 
+description: A resource-efficient RAG engine for scientific paper question answering
 importance: 1
 category: "LLM/RAG/AI"
 ---
 
 ### Quick Summary
 
-- Engineered a resource-efficient RAG engine for scientific paper question answering (QA) with precise source citations 
-- Fine-tuned the Llama-3.2-1B model using LoRA, optimizing GPU utilization and elevating ROUGE scores by 28% for long context paper summarization 
-- Delivered a lightweight desktop application with an intuitive UI using Ollama and Kotaemon, enabling cross-document QA, LLM-based reranking, and inline citation highlighting for an improved user experience 
+- Engineered a resource-efficient RAG engine for scientific paper question answering (QA) with precise source citations
+- Fine-tuned the Llama-3.2-1B model using LoRA, optimizing GPU utilization and elevating ROUGE scores by 28% for long context paper summarization
+- Delivered a lightweight desktop application with an intuitive UI using Ollama and Kotaemon, enabling cross-document QA, LLM-based reranking, and inline citation highlighting for an improved user experience
 
 ### Video Demo
+
  <style>
     .video-container {
         position: relative;

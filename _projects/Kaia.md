@@ -8,8 +8,8 @@ category: "LLM/RAG/AI"
 
 ### Quick Summary
 
-- Designed and implemented an end-to-end chatbot to improve user experience and increase lead generation for Kavi Global 
-- Utilized AI agents via Microsoft Copilot Studio to generate tailored responses based on company website content, achieving an 82% success rate across 180+ test cases 
+- Designed and implemented an end-to-end chatbot to improve user experience and increase lead generation for Kavi Global
+- Utilized AI agents via Microsoft Copilot Studio to generate tailored responses based on company website content, achieving an 82% success rate across 180+ test cases
 - Seamlessly integrated into the company's [development website](https://kavi-web-app.azurewebsites.net/) with Power BI dashboards for performance analytics
 
 ### Demo Website

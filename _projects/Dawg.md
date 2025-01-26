@@ -13,6 +13,7 @@ category: "Software Engineering"
 - Developed robust reporting for sensor readings (temperature, brightness, humidity) with human-like phrasing and edge case handling for reliability in diverse conditions.
 
 ### Video Demo
+
  <style>
     .video-container {
         position: relative;
