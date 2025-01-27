@@ -34,9 +34,17 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
-    width: 60%;
+    width: 50%;
     display: block;
     margin: 0 auto;
+  }
+}
+
+@media (min-width: 576px) {
+  .profile {
+    img {
+      width: 100%;
+    }
   }
 }
 
