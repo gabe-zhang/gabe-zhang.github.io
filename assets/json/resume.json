@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Yuan (Gabriel) Zhang",
+    "name": "Gabriel Zhang",
     "label": "",
     "image": "",
     "email": "yuanzzhang3@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "Passionate data detective with hands-on experience in data science team projects. Dedicated to bridging business needs with technical expertise and business acumen, utilizing data to support evidence-based decisions."
+    "summary": ""
   },
   "education": [
     {
@@ -47,8 +47,12 @@
       "url": "https://www.intralinks.com/",
       "startDate": "Jul 2024",
       "endDate": "Sep 2024",
-      "summary": "Focused on the applications of Vision-Language Models (VLMs) in Language Identification for multilingual scanned documents.",
-      "highlights": ["Vision-Language Models", "NLP", "Software Engineering"]
+      "highlights": [
+        "Engineered a language-identification POC to boost OCR accuracy for multilingual text in images",
+        "Evaluated 30 vision-language models based on accuracy, processing latency, and memory efficiency on AWS EC2",
+        "Built efficient Python pipelines for text-rich image detection and CLIP-based language identification, achieving 99% top-1 accuracy at 0.15s/document latency",
+        "Projected $300K annual cost savings by reducing dependency on third-party OCR APIs"
+      ]
     },
     {
       "name": "Shanghai Daiqian Information Technology Co., Ltd.",
@@ -59,10 +63,11 @@
       "endDate": "Aug 2021",
       "summary": "",
       "highlights": [
-        "Developed an automation system to optimize internal product testing workflows",
-        "Designed smart auto-fill forms and backend interfaces using YiDA (Alibaba Cloud) for streamlined information management ",
-        "Integrated automated notifications into edge devices to remind testers of feedback, reducing collection times by 65% and expanding testing capacity by 50%",
-        "Crafted 20+ ad hoc visualizations using R and ggplot2 for customer experience analysis, delivering actionable insights on customer segments and product performance to R&D teams and stakeholders"
+        "Architected a secure children's check-in/out system via barcode verification",
+        "Deployed 15+ responsive web interfaces with amis JSON framework, reducing front-end development complexity by 70%",
+        "Engineered fault-tolerant Flask RESTful APIs with role-based access control for attendance tracking and user management", 
+        "Integrated USB barcode scanners and label printers via JavaScript SDK for on-site check-in stations",
+        "Optimized the system's efficiency, reliability, and user experience for 40+ families through cross-functional collaboration"
       ]
     }
   ],
@@ -90,29 +95,22 @@
   ],
   "skills": [
     {
-      "name": "Python",
-      "level": "Master",
-      "icon": "fa-brands fa-python",
+      "name": "Machine Learning & AI",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "LLM [Transformers, LangChain, OpenAI]",
-        "NLP [BERTopic, NLTK, Sentence Transformers]",
+        "LLM [Hugging Face Transformers, LangChain, OpenAI API]",
+        "NLP [NLTK, Sentence Transformers, BERTopic, SpaCy]",
         "DL/ML [PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Statsmodels, MLflow]",
         "Core [Pandas, NumPy, OpenCV]"
       ]
     },
     {
-      "name": "Machine Learning & AI",
-      "level": "Expert",
-      "icon": "fa-solid fa-brain",
-      "keywords": ["Deep Learning", "Natural Language Processing", "Computer Vision", "MLOps"]
-    },
-    {
-      "name": "Big Data & Data Platforms",
+      "name": "Data Platforms",
       "level": "Master",
       "icon": "fa-solid fa-database",
-      "keywords": ["Spark", "Hadoop", "Hive", "MapReduce", "Databricks", "BigQuery", "Neo4j", "MongoDB", "Cassandra", "PostgreSQL", "MySQL"]
+      "keywords": ["Spark", "Databricks", "Hadoop", "Pinecone", "BigQuery", "MongoDB","Neo4j", "Cassandra", "PostgreSQL"]
     },
-
     {
       "name": "AWS Services",
       "level": "Advanced",
@@ -120,10 +118,10 @@
       "keywords": ["SageMaker", "EC2", "ECS", "S3", "RDS", "Lambda", "SQS"]
     },
     {
-      "name": "DevOps & Development",
+      "name": "MLOps",
       "level": "Advanced",
       "icon": "fa-solid fa-code-branch",
-      "keywords": ["Docker", "Git", "CI/CD", "Linux", "Unit Testing", "Flask", "REST API"]
+      "keywords": ["Docker", "Git", "GitHub Actions", "CI/CD", "Linux", "Unit Testing", "Flask", "REST API"]
     },
     {
       "name": "Data Visualization",
@@ -132,26 +130,14 @@
       "keywords": ["Tableau", "Excel", "Seaborn", "Matplotlib", "ggplot2"]
     }
   ],
-  "languages": [
-    {
-      "language": "Chinese - Mandarin",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "volunteer": [
     {
       "organization": "Irvine Canaan Christian Community Church",
       "position": "Software Developer",
       "url": "https://www.icccc.org",
       "startDate": "Jun 2022",
-      "endDate": "Jul 2023",
-      "summary": "Developed an authorization system to facilitate a secure check-in/check-out process for ensuring the safety of children using the amis framework and Flask."
+      "endDate": "Oct 2023",
+      "summary": "Architected a secure children's check-in/out system via barcode verification"
     }
   ]
 }

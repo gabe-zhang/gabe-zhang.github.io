@@ -8,9 +8,11 @@ category: "LLM/RAG/AI"
 
 ### Quick Summary
 
-- Engineered a resource-efficient RAG engine for scientific paper question answering (QA) with precise source citations
-- Fine-tuned the Llama-3.2-1B model using LoRA, optimizing GPU utilization and elevating ROUGE scores by 28% for long context paper summarization
-- Delivered a lightweight desktop application with an intuitive UI using Ollama and Kotaemon, enabling cross-document QA, LLM-based reranking, and inline citation highlighting for an improved user experience
+- Developed a RAG engine for scientific paper QA with accurate source citations 
+- Enhanced Llama-3.2-1B for paper summarization via LoRA fine-tuning (7% trainable parameters), achieving 51% higher ROUGE-2 and 13% ROUGE-L scores
+- Deployed a hybrid text/vector retrieval system featuring LLM reranking and citation visualization on laptop hardware 
+
+Tools: PEFT, Transformers, Weights & Biases, Kotaemon, ChromaDB
 
 ### Video Demo
 
