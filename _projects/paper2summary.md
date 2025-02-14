@@ -8,9 +8,9 @@ category: "LLM/RAG/AI"
 
 ### Quick Summary
 
-- Developed a RAG engine for scientific paper QA with accurate source citations 
+- Developed a RAG engine for scientific paper QA with accurate source citations
 - Enhanced Llama-3.2-1B for paper summarization via LoRA fine-tuning (7% trainable parameters), achieving 51% higher ROUGE-2 and 13% ROUGE-L scores
-- Deployed a hybrid text/vector retrieval system featuring LLM reranking and citation visualization on laptop hardware 
+- Deployed a hybrid text/vector retrieval system featuring LLM reranking and citation visualization on laptop hardware
 
 Tools: PEFT, Transformers, Weights & Biases, Kotaemon, ChromaDB
 
