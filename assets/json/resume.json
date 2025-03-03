@@ -63,11 +63,8 @@
       "endDate": "Aug 2021",
       "summary": "",
       "highlights": [
-        "Architected a secure children's check-in/out system via barcode verification",
-        "Deployed 15+ responsive web interfaces with amis JSON framework, reducing front-end development complexity by 70%",
-        "Engineered fault-tolerant Flask RESTful APIs with role-based access control for attendance tracking and user management",
-        "Integrated USB barcode scanners and label printers via JavaScript SDK for on-site check-in stations",
-        "Optimized the system's efficiency, reliability, and user experience for 40+ families through cross-functional collaboration"
+        "Developed a feedback tracking system to streamline feedback collection with automated reminders using YiDA (Alibaba Cloud), reducing collection time by 65% and expanding testing capacity by 50%",
+        "Conducted customer segmentation and product performance analysis to enhance customer experience, designing 20+ data visualizations using R and ggplot2"
       ]
     }
   ],
