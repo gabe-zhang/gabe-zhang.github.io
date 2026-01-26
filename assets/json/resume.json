@@ -99,6 +99,20 @@
         "Created 20+ visualizations using ggplot2 (satisfaction radar charts, demographic profiles, efficacy heatmaps, usage treemaps)",
         "Built internal trial management system on Alibaba Cloud with automated tester registration, feedback reminders, and sample tracking"
       ]
+    },
+    {
+      "name": "Irvine Canaan Christian Community Church",
+      "position": "Full Stack Software Developer (Volunteer)",
+      "location": "Irvine, CA",
+      "url": "https://www.icccc.org",
+      "startDate": "Jun 2022",
+      "endDate": "Mar 2024",
+      "highlights": [
+        "Created a full-stack enrollment and attendance management system using Python, Flask, and MySQL for children's ministry, processing 80+ weekly check-ins/check-outs for 3+ years",
+        "Developed 8 data management dashboards and 15+ role-based pages serving 4 user roles with real-time validation",
+        "Refactored REST APIs and reduced codebase by 3,600+ lines via SQLAlchemy optimization and DRY architecture",
+        "Integrated barcode SDK for automated badge printing, enabling streamlined check-in workflow"
+      ]
     }
   ],
   "projects": [
@@ -175,19 +189,5 @@
       "keywords": ["AWS", "Docker", "Linux", "Git", "CI/CD", "W&B", "Streamlit", "Tableau"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Irvine Canaan Christian Community Church",
-      "position": "Full Stack Software Developer",
-      "url": "https://www.icccc.org",
-      "startDate": "Jun 2022",
-      "endDate": "Mar 2024",
-      "summary": "Created a full-stack enrollment and attendance management system using Python, Flask, and MySQL for children's ministry, processing 80+ weekly check-ins/check-outs for 3+ years",
-      "highlights": [
-        "Developed 8 data management dashboards and 15+ role-based pages serving 4 user roles with real-time validation",
-        "Refactored REST APIs and reduced codebase by 3,600+ lines via SQLAlchemy optimization and DRY architecture",
-        "Integrated barcode SDK for automated badge printing, enabling streamlined check-in workflow"
-      ]
-    }
-  ]
+  "volunteer": []
 }
