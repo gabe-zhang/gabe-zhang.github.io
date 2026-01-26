@@ -46,10 +46,10 @@
       "startDate": "May 2025",
       "endDate": "Present",
       "highlights": [
-       "Developing real-time computer vision system enabling autonomous weed detection and precision spray control on Farm-ng Amiga robotic platform",
-       "Architecting multi-process system with IPC and threading to ensure low-latency integration of depth sensing, GPS, and camera feeds",
-       "Deploying PyTorch models on NVIDIA Jetson Xavier via TensorRT FP16, achieving 8.6x inference speedup (718ms → 84ms)",
-       "Engineering dual-camera GUI integrating weed detection and obstacle avoidance with automated safety-stop functionality"
+        "Developing real-time computer vision system enabling autonomous weed detection and precision spray control on Farm-ng Amiga robotic platform",
+        "Architecting multi-process system with IPC and threading to ensure low-latency integration of depth sensing, GPS, and camera feeds",
+        "Deploying PyTorch models on NVIDIA Jetson Xavier via TensorRT FP16, achieving 8.6x inference speedup (718ms → 84ms)",
+        "Engineering dual-camera GUI integrating weed detection and obstacle avoidance with automated safety-stop functionality"
       ]
     },
     {
