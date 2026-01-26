@@ -81,20 +81,6 @@
       ]
     },
     {
-      "name": "Shanghai Daiqian Information Technology Co., Ltd.",
-      "position": "Data Analyst Intern",
-      "location": "Shanghai, China",
-      "url": "https://www.skinbasic.cn",
-      "startDate": "Jul 2021",
-      "endDate": "Aug 2021",
-      "highlights": [
-        "Conducted consumer research for pre-launch product testing, performing survey analysis and building internal tooling",
-        "Analyzed 190+ consumer surveys using R; findings: 9/10 satisfaction, 86% recommendation rate, 87% purchase intent",
-        "Created 20+ visualizations using ggplot2 (satisfaction radar charts, demographic profiles, efficacy heatmaps, usage treemaps)",
-        "Built internal trial management system on Alibaba Cloud with automated tester registration, feedback reminders, and sample tracking"
-      ]
-    },
-    {
       "name": "Irvine Canaan Christian Community Church",
       "position": "Full Stack Software Developer (Volunteer)",
       "location": "Irvine, CA",
@@ -106,6 +92,20 @@
         "Developed 8 data management dashboards and 15+ role-based pages serving 4 user roles with real-time validation",
         "Refactored REST APIs and reduced codebase by 3,600+ lines via SQLAlchemy optimization and DRY architecture",
         "Integrated barcode SDK for automated badge printing, enabling streamlined check-in workflow"
+      ]
+    },
+    {
+      "name": "Shanghai Daiqian Information Technology Co., Ltd.",
+      "position": "Data Analyst Intern",
+      "location": "Shanghai, China",
+      "url": "https://www.skinbasic.cn",
+      "startDate": "Jul 2021",
+      "endDate": "Aug 2021",
+      "highlights": [
+        "Conducted consumer research for pre-launch product testing, performing survey analysis and building internal tooling",
+        "Analyzed 190+ consumer surveys using R; findings: 9/10 satisfaction, 86% recommendation rate, 87% purchase intent",
+        "Created 20+ visualizations using ggplot2 (satisfaction radar charts, demographic profiles, efficacy heatmaps, usage treemaps)",
+        "Built internal trial management system on Alibaba Cloud with automated tester registration, feedback reminders, and sample tracking"
       ]
     }
   ],
