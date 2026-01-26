@@ -10,7 +10,7 @@ img: /assets/img/sugarbeet-weed-seg-cover.jpg
 ### Quick Summary
 
 - Developing real-time weed detection system for precision agriculture on Farm-ng Amiga robotic platform
-- Deployed PyTorch semantic segmentation models (ERFNet, DeepLabV3+) on NVIDIA Jetson Xavier via TensorRT FP16
+- Deployed PyTorch semantic segmentation model (ERFNet) on NVIDIA Jetson Xavier via TensorRT FP16
 - Achieved 8.6x inference speedup (718ms → 84ms) enabling real-time field operation
 - Trained and evaluated on PhenoBench dataset for sugarbeet/weed discrimination
 

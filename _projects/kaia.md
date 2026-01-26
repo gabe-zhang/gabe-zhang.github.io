@@ -10,7 +10,7 @@ category: "LLM/NLP"
 
 - Developed an LLM-powered lead qualification chatbot to route website visitors across 3 persona flows and drive consultation bookings—in production since February 2025
 - Achieved 81% response accuracy across 180+ test cases by engineering GPT-4o prompts and dynamically leveraging website content as a RAG knowledge base
-- Designed intent classification and prospect qualification workflow from greeting through service matching and case study recommendations
+- Designed intent classification and prospect qualification workflow from greeting through service matching and case study recommendations; customized human handoff escalation for complex queries
 - Recommended MS Copilot Studio over Dialogflow, Rasa, and Botpress for cost efficiency and Azure OpenAI integration
 
 Tools: MS Copilot Studio, GPT-4o, Azure OpenAI, Power BI

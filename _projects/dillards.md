@@ -9,7 +9,7 @@ img: /assets/img/dillards-cover.jpg
 
 ### Quick Summary
 
-- Built ML pipeline to predict Black Friday purchase vs. return outcomes, reducing return-related costs for Dillard's
+- Built ML pipeline to predict Black Friday purchase vs. return outcomes, reducing return-related costs for Dillard’s
 - Queried 160M+ POS records and applied SMOTE for class imbalance; trained K-means + Logistic Regression ensemble
 - Achieved 78% purchase precision and 58% return recall with 227% projected ROI (~$590K)
 
