@@ -4,7 +4,7 @@ title: "OptiDraft"
 description: A champion drafting and recommender system for League of Legends
 importance: 1
 category: "Data Science"
-img: /assets/img/OptiDraft-cover.png
+img: /assets/img/optidraft-cover.png
 ---
 
 ### Quick Summary

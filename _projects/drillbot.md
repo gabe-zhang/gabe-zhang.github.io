@@ -14,4 +14,4 @@ category: "LLM/NLP"
 
 ### Sample Architecture Diagram
 
-{% include figure.liquid loading="eager" path="assets/img/DrillBot-architecture.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/drillbot-architecture.png" title="example image" class="img-fluid rounded z-depth-1" %}
