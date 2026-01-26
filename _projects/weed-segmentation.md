@@ -4,6 +4,7 @@ title: "Sugarbeet Weed Segmentation"
 description: Semantic segmentation for agricultural weed detection in sugarbeet fields
 importance: 0
 category: "Computer Vision"
+img: /assets/img/sugarbeet-weed-seg-cover.jpg
 ---
 
 ### Quick Summary

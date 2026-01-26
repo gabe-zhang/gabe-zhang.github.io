@@ -4,7 +4,7 @@ title: Dillard's Black Friday Return Prediction
 description: ML pipeline to predict purchase vs. return outcomes
 importance: 0
 category: "Data Science"
-related_publications: false
+img: /assets/img/dillards-cover.jpg
 ---
 
 ### Quick Summary
@@ -19,4 +19,4 @@ Tools: Python, Scikit-learn, PostgreSQL
 
 <iframe src="https://drive.google.com/file/d/1YVFyaYHRFi5i68LV6iKovaxK8xmPdrF5/preview" width="100%" height="600px" allow="autoplay"></iframe>
 
-For more detailed project information, please visit the GitHub repo: <https://github.com/nu-mlds-group/dillards-sales>
+For more detailed project information, please visit the GitHub repo: <https://github.com/nu-mlds-group/dillards-return-prediction>

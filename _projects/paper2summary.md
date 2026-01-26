@@ -4,6 +4,7 @@ title: Paper2Summary
 description: Scientific paper summarization via LoRA fine-tuning
 importance: 1
 category: "LLM/NLP"
+img: /assets/img/paper2summary-cover.jpg
 ---
 
 ### Quick Summary
