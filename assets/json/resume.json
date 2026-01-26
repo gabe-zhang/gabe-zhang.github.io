@@ -17,13 +17,7 @@
       "studyType": "Master of Science",
       "startDate": "Sep 2023",
       "endDate": "Dec 2024",
-      "courses": [
-        "Deep Learning",
-        "Large Foundation Models",
-        "Natural Language Processing",
-        "Predictive Analytics",
-        "Cloud Engineering"
-      ]
+      "courses": ["Deep Learning", "Large Foundation Models", "Natural Language Processing", "Predictive Analytics", "Cloud Engineering"]
     },
     {
       "institution": "University of California, Irvine",
