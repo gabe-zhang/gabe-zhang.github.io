@@ -3,7 +3,7 @@ layout: page
 title: Dawg
 description: Your AI-Powered Home Assistant
 importance: 2
-category: "Software Engineering"
+category: "Software"
 ---
 
 ### Quick Summary

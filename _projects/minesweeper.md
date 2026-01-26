@@ -3,7 +3,7 @@ layout: page
 title: Minesweeper AI
 description: AI agent for solving the Minesweeper game
 importance: 10
-category: "LLM/RAG/AI"
+category: "Software"
 ---
 
 ### Quick Summary

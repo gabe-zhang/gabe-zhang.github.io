@@ -1,18 +1,18 @@
 ---
 layout: page
-title: paper2summary
-description: A resource-efficient RAG engine for scientific paper question answering
+title: Paper2Summary
+description: Scientific paper summarization via LoRA fine-tuning
 importance: 1
-category: "LLM/RAG/AI"
+category: "LLM/NLP"
 ---
 
 ### Quick Summary
 
-- Developed a RAG engine for scientific paper QA with accurate source citations
-- Enhanced Llama-3.2-1B for paper summarization via LoRA fine-tuning (7% trainable parameters), achieving 51% higher ROUGE-2 and 13% ROUGE-L scores
+- Developed a scientific paper summarization system by LoRA fine-tuning Llama-3.2-1B-Instruct on 20K arXiv papers, training only 0.07% of parameters (~850K) with 10K token context support
+- Achieved +51% ROUGE-2 and +37% ROUGE-3 improvement over base model on 6,440-sample test set
 - Deployed a hybrid text/vector retrieval system featuring LLM reranking and citation visualization on laptop hardware
 
-Tools: PEFT, Transformers, Weights & Biases, Kotaemon, ChromaDB
+Tools: Python, PyTorch, PEFT, Hugging Face, Weights & Biases
 
 ### Video Demo
 

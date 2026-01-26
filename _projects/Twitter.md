@@ -3,7 +3,7 @@ layout: page
 title: Twitter Emotion Recognition
 description: Sentiment Analysis on Twitter data
 importance: 2
-category: "Machine/Deep Learning"
+category: "LLM/NLP"
 related_publications: false
 ---
 

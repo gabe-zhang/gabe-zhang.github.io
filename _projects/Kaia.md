@@ -1,16 +1,19 @@
 ---
 layout: page
 title: "Kaia"
-description: Kavi's AI Assistant
+description: LLM-powered lead qualification chatbot for Kavi Global
 importance: 2
-category: "LLM/RAG/AI"
+category: "LLM/NLP"
 ---
 
 ### Quick Summary
 
-- Designed and implemented an end-to-end chatbot to improve user experience and increase lead generation for Kavi Global
-- Utilized AI agents via Microsoft Copilot Studio to generate tailored responses based on company website content, achieving an 82% success rate across 180+ test cases
-- Seamlessly integrated into the company's [website](https://www.kaviglobal.com/) with Power BI dashboards for performance analytics
+- Developed an LLM-powered lead qualification chatbot to route website visitors across 3 persona flows and drive consultation bookings—in production since February 2025
+- Achieved 81% response accuracy across 180+ test cases by engineering GPT-4o prompts and dynamically leveraging website content as a RAG knowledge base
+- Designed intent classification and prospect qualification workflow from greeting through service matching and case study recommendations
+- Recommended MS Copilot Studio over Dialogflow, Rasa, and Botpress for cost efficiency and Azure OpenAI integration
+
+Tools: MS Copilot Studio, GPT-4o, Azure OpenAI, Power BI
 
 ### Demo Website
 

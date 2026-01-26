@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - gabe-zhang/sugarbeet-weed-segmentation
+  - gabe-zhang/weed-control-app
   - gabe-zhang/paper2summary
   - gabe-zhang/dawg
   - xvrettakou/cloud_eng_project

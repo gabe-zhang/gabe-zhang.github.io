@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Dillard’s Black Friday Sales
-description: Applied ML techniques to maximize Black Friday sales revenue
-importance: 3
-category: "Machine/Deep Learning"
+title: Dillard's Black Friday Return Prediction
+description: ML pipeline to predict purchase vs. return outcomes
+importance: 0
+category: "Data Science"
 related_publications: false
 ---
 
 ### Quick Summary
 
-- Applied ML techniques to maximize Black Friday sales revenue
-- Engineered 160M point-of-sale records through EDA and ETL processes using PostgreSQL and Python
-- Applied Random Forest and K-Means Clustering for forecasting high-profit and low-return items using scikit-learn
-- Optimized model performance through hyperparameter tuning, achieving an estimated 230% increase in ROI
+- Built ML pipeline to predict Black Friday purchase vs. return outcomes, reducing return-related costs for Dillard's
+- Queried 160M+ POS records and applied SMOTE for class imbalance; trained K-means + Logistic Regression ensemble
+- Achieved 78% purchase precision and 58% return recall with 227% projected ROI (~$590K)
+
+Tools: Python, Scikit-learn, PostgreSQL
 
 ### Project Report
 

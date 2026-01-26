@@ -1,15 +1,18 @@
 ---
 layout: page
 title: AttendancePro
-description: A web authorization system for children's ministry.
+description: Full-stack enrollment and attendance management system
 importance: 1
-category: "Software Engineering"
+category: "Software"
 ---
 
 ### Quick Summary
 
-AttendancePro is a web-based authorization system to facilitate a secure check-in/check-out process for children. In addition, it also supports various administrative tasks for the children's ministry at the [Irvine Canaan Christian Community Church](https://www.icccc.org/).
+- Created a full-stack enrollment and attendance management system using Python, Flask, and MySQL for children's ministry, processing 80+ weekly check-ins/check-outs for 3+ years
+- Developed 8 data management dashboards and 15+ role-based pages serving 4 user roles with real-time validation
+- Refactored REST APIs and reduced codebase by 3,600+ lines via SQLAlchemy optimization and DRY architecture
+- Integrated barcode SDK for automated badge printing, enabling streamlined check-in workflow for staff and guardians
 
-As a web developer, I was responsible for designing and implementing web pages for check-in and check-out procedures as well as information management tools using the [amis](https://baidu.github.io/amis/zh-CN/docs/index) framework, Flask (Python), REST APIs, and Docker. I also integrated a label printer via SDK to print out barcode tags for authentication purpose.
+Tools: Python, Flask, MySQL, SQLAlchemy, Docker
 
 For more detailed project information, please visit the GitHub repo: <https://github.com/spencerlli/CKFM-enrollment-check-in-out-system>
