@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of my cool projects.
+description: A curated selection of my technical projects.
 nav: true
 nav_order: 3
 display_categories: ["Computer Vision", "LLM/NLP", "Data Science", "Software"]
