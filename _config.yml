@@ -4,12 +4,11 @@
 
 title: Yuan (Gabriel) Zhang # the website title (if blank, full name will be used instead)
 first_name: Yuan
-middle_name: Gabriel
 last_name: Zhang
 email: yuanzzhang3@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A personal website.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Portfolio of Yuan (Gabriel) Zhang - Researcher in Computer Vision & Agricultural Robotics.
+keywords: computer-vision, efficient-deep-learning, edge-ai, agricultural-robotics, deep-learning, machine-learning, robotics, portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🖥️
 
