@@ -75,7 +75,7 @@ linkedin_username: gabe-zhang
 # scholar_userid: # your Google Scholar ID
 # semanticscholar_id: # your Semantic Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0005-2415-3612 # your ORCID ID
 # medium_username: # your Medium username
 # quora_username: # your Quora username
 # publons_id: # your ID on Publons
@@ -102,7 +102,8 @@ linkedin_username: gabe-zhang
 # zotero_username: # your zotero username
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-# contact_note: >
+contact_note: >
+  Feel free to reach out on LinkedIn or email me for collaborations.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -395,7 +396,7 @@ imagemagick:
 #   You can also set loading="" to other values for specific images to override the default behavior.
 #   Options: "auto", "eager", "lazy"
 #   See https://web.dev/browser-level-image-lazy-loading/ for more information.
-lazy_loading_images: false # enables lazy loading of images (recommended)
+lazy_loading_images: true # enables lazy loading of images (recommended)
 
 # -----------------------------------------------------------------------------
 # Optional Features
