@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 subtitle:
 
 profile:
@@ -12,7 +12,9 @@ profile:
     Yuan (Gabriel) Zhang
 
 news: true # includes a list of news items
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+nav: true
+nav_order: 3
 ---
 
 Research Assistant developing real-time computer vision systems for autonomous agricultural vehicles at USDA Agricultural Research Service. My work focuses on precision weed control through edge AI deployment on NVIDIA Jetson platforms—achieving 8.6x inference speedup via TensorRT optimization—with multi-process architectures for sensor integration and safety-critical control.

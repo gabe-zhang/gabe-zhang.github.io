@@ -3,7 +3,7 @@ layout: resume
 permalink: /resume/
 title: Resume
 nav: true
-nav_order: 5
+nav_order: 2
 toc:
   sidebar: left
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /
 description: A curated selection of my technical projects.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: ["Computer Vision", "LLM/NLP", "Data Science", "Software"]
 horizontal: false
 ---
