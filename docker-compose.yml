@@ -1,12 +1,13 @@
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: amirpourmand/al-folio:v0.12.0
+    image: amirpourmand/al-folio:v0.16.0
     build: .
     ports:
       - 8080:8080
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+    command: bash -c "bundle install && /tmp/entry_point.sh"
     environment:
       - JEKYLL_ENV=development
